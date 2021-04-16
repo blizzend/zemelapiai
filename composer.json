@@ -1,0 +1,12 @@
+{
+    "autoload" : {
+        "name":"Vietu Aprasymas",
+        "description": "Vietu Web",
+        "psr-4": {
+            "Imones\\": "app"
+        }
+    },
+    "require": {
+        "google/apiclient": "2.0"
+    }
+}
